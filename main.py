@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from dadata import Dadata
 import sqlite3
 from os import system
