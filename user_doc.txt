@@ -1,0 +1,23 @@
+RU
+Функционал:
+1. Изменение языка между ru(Русский) и en (английский).
+2. Поиск точных координат по запросу
+3. Выход из программы.
+
+Чтобы изменить язык, необходимо ввести цифру 1 и нажать Enter, после чего ввести допустимый язык ("ru" или "en" без кавычек) и нажать Enter.
+
+Чтобы узнать точные координаты по запросу, необходимо ввести цифру 2 и нажать Enter, после чего ввести ваш запрос в любом виде. программа предложит вам список совпадений, далее необходимо выбрать интересующее совпадение, ввести его цифру и нажать Enter. Программа покажет вам точные широту и долготу этого географического объекта.
+
+Чтобы выйти из программы, необходимо ввести цифру 3 и нажать Enter.
+
+EN
+Functional:
+1. Change the language between ru (Russian) and en (English).
+2. Search for exact coordinates on request
+3. Exit the program.
+
+To change the language, enter the number 1 and press Enter, then enter a valid language ("ru" or "en" without quotes) and press Enter.
+
+To find out the exact coordinates of the request, you need to enter the number 2 and press Enter, then enter your request in any form. the program will offer you a list of matches, then you need to select the match you are interested in, enter its number and press Enter. The program will show you the exact latitude and longitude of this geographical object.
+
+To exit the program, enter the number 3 and press Enter.
